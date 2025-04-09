@@ -133,3 +133,28 @@ lI{
     border-radius: 10px;
 
 }
+
+.third-section{
+    background-color: #E5E7E8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote{
+    margin-top: 180px;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    max-width: 1000px;
+}
+
+.thor{
+    margin-top: -20px;
+    margin-left: 650px;
+    margin-bottom: 180px;
+    font-weight: bold;
+    font-size: 26px;
+}
